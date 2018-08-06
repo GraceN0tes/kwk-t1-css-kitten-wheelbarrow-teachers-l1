@@ -1,2 +1,2 @@
 name = "Grace"
-puts 
+puts name
